@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of a brave defeat given by the forces in Plimouth, to Sellum Greenvile, on Tuesday, the eighteenth of February, 1644. Written thence by a sure hand to a speciall friend in London, and confirmed by many that were eye-witnesses of the same. With the taking of one lieutenant colonell, one major, some captaines, foure lieutenants, two ensignes, 92 common souldiers. There were also taken about 300 armes, good store of mattocks, shovels and faggots. Published according to order.</title>
+            <author>I. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91425</idno>
+            <idno type="STC">Wing P44</idno>
+            <idno type="STC">Thomason E271_3</idno>
+            <idno type="STC">ESTC R212216</idno>
+            <idno type="EEBO-CITATION">99870861</idno>
+            <idno type="PROQUEST">99870861</idno>
+            <idno type="VID">159458</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91425)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159458)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E271[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of a brave defeat given by the forces in Plimouth, to Sellum Greenvile, on Tuesday, the eighteenth of February, 1644. Written thence by a sure hand to a speciall friend in London, and confirmed by many that were eye-witnesses of the same. With the taking of one lieutenant colonell, one major, some captaines, foure lieutenants, two ensignes, 92 common souldiers. There were also taken about 300 armes, good store of mattocks, shovels and faggots. Published according to order.</title>
+                  <author>I. P.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.P. for Francis Coles, dwelling in the Old Bayly.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on page 5: I.P.</note>
+                  <note>Annotation on Thomason copy: "1st March 1644"; the 5 in imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Plymouth (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159458:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 30 -->
+            <p>A TRVE RELATION OF A BRAVE DEFEAT Given by the Forces in <hi>Plimouth,</hi> to SKELLUM GREENVILE, On Tueſday, the eighteenth of <hi>February,</hi> 1644.</p>
+            <p>Written thence by a ſure Hand to a ſpeciall friend in <hi>London,</hi> and confirmed by many that were eye-witneſſes of the ſame.</p>
+            <p>With the taking of one Lieutenant Colonell, one Major, foure Captaines, foure Lieutenants, two Enſignes, 92 Common Souldiers.</p>
+            <p>There were alſo taken about 300 Armes, good ſtore of Mattocks, Shovels and Faggots.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>LONDON, Printed by <hi>E. P.</hi> for <hi>Francis Coles,</hi> dwelling in the <hi>Old Bayly.</hi> 1645. <add>1644</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159458:2"/>
+            <!-- PDF PAGE 31 -->
+            <pb n="1" facs="tcp:159458:2"/>
+            <!-- PDF PAGE 31 -->
+            <head>A True RELATION Of A BRAVE DEFEAT, Given by the Forces in <hi>Plimouth</hi> to SKELLUM GREENVILE, on <date>Tueſday the 18 of <hi>Februarie,</hi> 1644.</date>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He good ſucceſſe it hath pleaſed God to give our Forces lately, makes mee once more ſet pen to paper, thereby deſiring to informe you; That on Tueſday, the 18 of this inſtant <hi>Fe<g ref="char:EOLhyphen"/>bruary,</hi> our <hi>Plimouth</hi> Forces were drawne forth to all Quarters of the Towne, the Enemie having the night before with a conſiderable number of Horſe and Foot gained an Hill over-againſt the Towne, the water being betweene, where formerly we had a Worke called by the name of Mount <hi>Stamford,</hi>
+               <pb n="2" facs="tcp:159458:3"/>
+               <!-- PDF PAGE 32 -->
+which we loſt about a twelve-moneth ſince, and was open my Lord Generalls advance into the Weſt quitted by the Enemie, and ſlighted by us: To this place the Enemie no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> came againe, and in one night did, with the helpe of ſome hundreds of Faggots, which they brought with them, make up a verie formidable Worke, at the leaſt twelve foot thicke, with a Breſt-Worke drawne from each ſide in man<g ref="char:EOLhyphen"/>ner of a Line, which they compleatly man'd with Muſquetiers, and ſtood in that poſture, intending the next night to finiſh the Worke, which then would have beene impregnable, from whence they might ſhoot into the Towne at their pleaſure, and have ſo annoyed us, that no Shipping could have layne in <hi>Catwater</hi> without danger of ſinking or fie<g ref="char:EOLhyphen"/>ring, which is the moſt convenient place for Ships to ride in, that muſt unload at the Key. But bleſſed be God, by his helpe and the vigilancie of our Commanders, all this was prevented by a timely ſallie (delayes in ſuch caſes proving dangerous) the weather did prove ſo advantagious, that both Horſe and Foot went ſo chearfully, ſo univerſally, to all the Workes, that neither the Enemie with<g ref="char:EOLhyphen"/>out, or the ſtander by within, could imagine where we intended to fall on. About noone there were a conſiderable number of Foot and a ſtrong Partie of Horſe conveied in Boats over the water, to a Worke we have under the Hill called Mount <hi>Batten,</hi> it not being much above two flight ſhot from Mount <hi>Stamford,</hi> then in the Enemies Poſſeſſi<g ref="char:EOLhyphen"/>on;
+<pb n="3" facs="tcp:159458:3"/>
+               <!-- PDF PAGE 32 -->
+and being on the height of the ſame Hill, out Forces were commanded to march up againſt the Enemie, who lay within their Workes and Line, being well manned both with Horſe and Foot rea<g ref="char:EOLhyphen"/>die to encounter ours, yet not ſo ſtrong as was ſuppoſed: the Enemie having drawne off a great part of them to the other ſide of the Towne, when they rather expected wee ſhould fall on; but wee croſſing their expecttation, fell on where wee were leaſt looked for, the weather proving ſo cleare, and wee approaching ſo openly, gave the Ene<g ref="char:EOLhyphen"/>mie warning enough, wee could not ſtirre but they muſt ſee us.</p>
+            <p>Well, our Foot, who were moſt Sea-men, mar<g ref="char:EOLhyphen"/>ched up reſolutely, the forlorne hope of horſe go<g ref="char:EOLhyphen"/>ing before, and the reſerve with them in the bottome, who had the advantage of ſome hedges which they lined with Muſquetiers, who fired upon the Enemy while the reſt advanced, the Enemy firing very faſt upon them alſo; and while our Foot were getting up the hill, our horſe and the Enemies met, who diſputed not long, the Enemy rather truſting to his Horſe leggs, then their owne ſwords; our Horſe followed them amaine, and it is verily thought kept ſome of them from comming back againe thither any more.</p>
+            <p>Our Foot ſeeing what good ſucceſſe the Horſe had, went, or rather ran up to the Enemies worke
+<pb n="4" facs="tcp:159458:4"/>
+               <!-- PDF PAGE 33 -->
+with their colours in their hands; and in a very ſhort time made the Enemy flie fort; yet before they quitted the worke, they blew up their Powder, and then betooke them to their heeles: our men en<g ref="char:EOLhyphen"/>tred the Worke, and placed their colours upon it: our Horſe cha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed the Enemy a mile and better while they ran, as the old ſaying is, and never looked behind them: I meane never made halt, unleſſe to take breath, till they came to a Worke they have two miles off; by this time the night comming on, our men retreated to their Fort which they manned all night, intending to make even with the ground, contenting themſelves with the beating the Enemy out of the field, and the taxing 104 Common Soldiers and Officers, whereof one a Lieueenant Colonell, one a Major, foure Captaines, and the reſt Lieutenants and Enſignes; there were taken alſo about 300 Armes, and in the worke good ſtore of Mattockes, Shovells, and Faggots: On our part we have but one man ſlaine, and that by an ac<g ref="char:EOLhyphen"/>cident, ſome few hurt, and one they ſay taken by the Enemy: This is no ſmall encouragement to our Soldiers, who are never better then when they are a fighting. In the meane while, both from the Ships and Forts, on that ſide the Towne were at the leaſt ſixty great Gunnes ſhot off, which beat up the dirt bravely about the Cavies eares: ſome there were ſlaine upon the place, but not many, but without queſtion many of them hurt, for our Horſe were in amongſt the Foot, ſlaſhing them a<g ref="char:EOLhyphen"/>maine,
+<pb n="5" facs="tcp:159458:4"/>
+               <!-- PDF PAGE 33 -->
+whom they routed totally, and made them runne away baſely. Which had you ſeene as I did, though at ſome diſtance, you would have laughed heartily, as I did.</p>
+            <p>Sir, you need not queſtion the truth of this; I aſſure you, I ſaw many of the Rogues brought in: I know you will receive this Relation from better hands, but being ſuch good Newes, I could not o<g ref="char:EOLhyphen"/>mit to give you an accompt of it: If I have not expreſſed my ſelfe in proper Phraſes, excuſe me, for I am no Souldier, Wee ſhall have one day this weeke ſet apart for a ſpeciall thankſgiving for this great mercy: So humbly beſeeching God to give us thankfull and cheerefull hearts, and ſuch courage, that wee may neither feare man, or diſtruſt God, I humbly take my leave, and reſt</p>
+            <closer>
+               <signed>Your Servant, <hi>I. P.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="list_of_prisoners">
+            <pb n="6" facs="tcp:159458:5"/>
+            <!-- PDF PAGE 34 -->
+            <head>A Liſt of the Priſoners taken at MOUNT-STAMFORD.</head>
+            <list>
+               <item>Lieut. Colonell <hi>Mohun.</hi>
+               </item>
+               <item>Serjeant Major <hi>Rich. Heele.</hi>
+               </item>
+               <item>Foure Captaines.</item>
+            </list>
+            <list>
+               <head>Lieutenants taken.</head>
+               <item>Lieutenant <hi>Guilt.</hi>
+               </item>
+               <item>Lieutenant <hi>Weringe.</hi>
+               </item>
+               <item>Lieutenant <hi>Manwaring.</hi>
+               </item>
+               <item>Lieutenant <hi>Aſhford.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Enſignes taken.</head>
+               <item>Enſigne <hi>Batiſhill.</hi>
+               </item>
+               <item>Enſigne <hi>Halfer.</hi>
+               </item>
+            </list>
+            <p>The reſt inferior Officers and Souldiers.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
